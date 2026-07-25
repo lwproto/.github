@@ -1,13 +1,14 @@
-# lwproto
 <p align="center">
-<img src="https://raw.githubusercontent.com/lwproto/.github/refs/heads/main/images/logo.svg">
+<img src="https://raw.githubusercontent.com/lwproto/.github/refs/heads/main/images/logo.svg" alt="lwproto">
 </p>
 
 <p align="center">
 <em>"Don't turn a matchstick into a multicooker."</em>
 </p>
 
-**Lightweight protocol stack for resource-constrained IoT and embedded systems**
+<p align="center">
+  <strong>Lightweight protocol stack for resource-constrained IoT and embedded systems</strong>
+</p>
 
 ## What is lwproto?
 
