@@ -1,6 +1,6 @@
 # lwproto
 
-![lwproto Logo](https://raw.githubusercontent.com/lwproto/.github/refs/heads/main/images/logo.png)
+![lwproto Logo](https://raw.githubusercontent.com/lwproto/.github/refs/heads/main/images/logo.svg)
 
 **Lightweight protocol stack for resource-constrained IoT and embedded systems**
 

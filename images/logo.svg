@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180mm"
+   height="59.999996mm"
+   viewBox="0 0 180 59.999996"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       style="fill:#07111d;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="M 5,44.999999 H 55 V 59.999998 H 70.000002 V 44.999999 H 180 v -30 H 145 V 9.9999997 H 130 V 14.999999 H 20 V 0 H 0 v 14.999999 h 5 z"
+       id="path7" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="M 5,4.9999997 H 15 V 34.999998 h 10 v 5.000001 H 10 V 9.9999997 H 5 Z"
+       id="path1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="m 30,19.999999 v 20 h 10.000002 v -5.000001 h 4.999997 v 5.000001 H 55 v -20 h -5 v 14.999999 h -5.000001 v -5 h -4.999997 v 5 H 35.000001 V 19.999999 Z"
+       id="path2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="m 60.000001,19.999999 v 34.999999 h 5 V 39.999999 H 80 v -20 H 75 V 34.999998 H 65.000001 V 24.999999 H 75 v -5 z"
+       id="path3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="m 85.000001,39.999999 v -20 H 100 v 5 h -9.999999 v 15 z"
+       id="path4" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="m 105,39.999999 v -20 h 20 v 20 h -5 v -15 h -10 v 9.999999 h 10 v 5.000001 z"
+       id="path5" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="M 155,40 V 20 h 20 v 20 h -5 V 25 h -10 v 9.999999 h 10 V 40 Z"
+       id="path5-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       d="m 130,24.999999 v -5 h 5 v -5 h 5 v 5 h 10 v 5 h -10 v 9.999999 h 10 v 5.000001 h -15 v -15 z"
+       id="path6" />
+  </g>
+</svg>
