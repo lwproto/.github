@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<em>"Don't turn a matchstick into a multicooker."</em>
+<em>"Don't turn a matchstick into a multicooker!"</em>
 </p>
 
 <p align="center">
