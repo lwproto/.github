@@ -81,6 +81,7 @@ It is planned as a **transactional protocol** with delivery guarantees and atomi
 
 **Typical use cases:**
 
+* OTA updates
 * actuator commands
 * configuration transactions
 * control messages that must not be partially applied
